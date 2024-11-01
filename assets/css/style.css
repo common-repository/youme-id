@@ -1,0 +1,11 @@
+#lostpasswordform div.ym-captcha,
+#loginform div.ym-captcha{
+    margin: 12px 0 24px -15px;
+}
+
+#registerform div.ym-captcha {
+    margin-left: -16px;
+}
+#login {
+    box-sizing: initial;
+}
